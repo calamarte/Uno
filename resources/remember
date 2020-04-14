@@ -1,0 +1,2 @@
+jar cvfm uno.jar manifest.txt uno/*
+
